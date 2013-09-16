@@ -1,4 +1,3 @@
-pr
-==
+# About the DMS LAB
 
-PR for DIKU dms lab
+Github hosted page for DMS Lab: TODO
