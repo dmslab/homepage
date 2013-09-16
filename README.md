@@ -1,3 +1,3 @@
 # About the DMS LAB
 
-Github hosted page for DMS Lab: TODO
+Visit the [Github hosted page for DMS Lab](http://dmslab.github.io/homepage)
